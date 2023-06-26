@@ -1,0 +1,842 @@
+[
+  {
+    "id": "BO-101",
+    "name": "Bồn cầu 1 khối BO-101",
+    "image": "src/assets/data/img/101.png",
+    "price": "8.250.000",
+    "type": 1
+  },
+  {
+    "id": "BO-102",
+    "name": "Bồn cầu treo tường BO-102",
+    "image": "src/assets/data/img/102.png",
+    "price": "8.400.000",
+    "type": 1
+  },
+  {
+    "id": "BO-103",
+    "name": "Bồn cầu treo tường BO-103",
+    "image": "src/assets/data/img/103.png",
+    "price": "10.500.000",
+    "type": 1
+  },
+  {
+    "id": "BO-104",
+    "name": "Bồn cầu 1 khối BO-104",
+    "image": "src/assets/data/img/104.png",
+    "price": "5.550.000",
+    "type": 1
+  },
+  {
+    "id": "BO-105",
+    "name": "Bồn cầu trứng BO-105",
+    "image": "src/assets/data/img/105.png",
+    "price": "5.300.000",
+    "type": 1
+  },
+  {
+    "id": "BO-106",
+    "name": "Bồn cầu thông minh BO-106",
+    "image": "src/assets/data/img/106.png",
+    "price": "5.450.000",
+    "type": 1
+  },
+  {
+    "id": "BO-107",
+    "name": "Bồn cầu thông minh BO-107",
+    "image": "src/assets/data/img/107.png",
+    "price": "5.300.000",
+    "type": 1
+  },
+  {
+    "id": "BO-108",
+    "name": "Bồn cầu thông minh BO-108",
+    "image": "src/assets/data/img/108.png",
+    "price": "5.450.000",
+    "type": 1
+  },
+  {
+    "id": "BO-109",
+    "name": "Bồn cầu treo tường BO-109",
+    "image": "src/assets/data/img/109.png",
+    "price": "5.300.000",
+    "type": 1
+  },
+  {
+    "id": "BO-110",
+    "name": "Bồn cầu trứng BO-110",
+    "image": "src/assets/data/img/110.png",
+    "price": "7.000.000",
+    "type": 1
+  },
+  {
+    "id": "BO-111",
+    "name": "Bồn cầu trứng BO-111",
+    "image": "src/assets/data/img/111.png",
+    "price": "6.450.000",
+    "type": 1
+  },
+  {
+    "id": "BO-112",
+    "name": "Bồn cầu trứng BO-112",
+    "image": "src/assets/data/img/112.png",
+    "price": "7.350.000",
+    "type": 1
+  },
+  {
+    "id": "BO-113",
+    "name": "Bồn cầu thông minh BO-113",
+    "image": "src/assets/data/img/113.png",
+    "price": "5.450.000",
+    "type": 1
+  },
+  {
+    "id": "BO-114",
+    "name": "Bồn cầu 1 khối BO-114",
+    "image": "src/assets/data/img/114.png",
+    "price": "6.250.000",
+    "type": 1
+  },
+  {
+    "id": "BO-115",
+    "name": "Bồn cầu trứng BO-115",
+    "image": "src/assets/data/img/115.png",
+    "price": "6.650.000",
+    "type": 1
+  },
+  {
+    "id": "BO-116",
+    "name": "Bồn cầu 1 khối BO-116",
+    "image": "src/assets/data/img/116.png",
+    "price": "9.100.000",
+    "type": 1
+  },
+  {
+    "id": "BO-117",
+    "name": "Bồn cầu 1 khối BO-117",
+    "image": "src/assets/data/img/117.png",
+    "price": "8.050.000",
+    "type": 1
+  },
+  {
+    "id": "BO-118",
+    "name": "Bồn cầu 1 khối BO-118",
+    "image": "src/assets/data/img/118.png",
+    "price": "8.050.000",
+    "type": 1
+  },
+  {
+    "id": "BO-119",
+    "name": "Bồn cầu 1 khối BO-119",
+    "image": "src/assets/data/img/119.png",
+    "price": "9.450.000",
+    "type": 1
+  },
+  {
+    "id": "BO-120",
+    "name": "Bồn cầu thông minh BO-120",
+    "image": "src/assets/data/img/120.png",
+    "price": "8.050.000",
+    "type": 1
+  },
+  {
+    "id": "BO-121",
+    "name": "Bồn cầu 1 khối BO-121",
+    "image": "src/assets/data/img/121.png",
+    "price": "9.750.000",
+    "type": 1
+  },
+  {
+    "id": "BO-122",
+    "name": "Bồn cầu thông minh BO-122",
+    "image": "src/assets/data/img/122.png",
+    "price": "14.450.000",
+    "type": 1
+  },
+  {
+    "id": "BO-123",
+    "name": "Bồn cầu 1 khối BO-123",
+    "image": "src/assets/data/img/123.png",
+    "price": "11.500.000",
+    "type": 1
+  },
+  {
+    "id": "BO-124",
+    "name": "Bồn cầu thông minh BO-124",
+    "image": "src/assets/data/img/124.png",
+    "price": "11.500.000",
+    "type": 1
+  },
+  {
+    "id": "BO-2101",
+    "name": "Chậu lavabo đặt bàn BO-2101",
+    "image": "src/assets/data/img/2101.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2102",
+    "name": "Chậu lavabo đặt bàn BO-2102",
+    "image": "src/assets/data/img/2102.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2103",
+    "name": "Chậu lavabo đặt bàn BO-2103",
+    "image": "src/assets/data/img/2103.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2104",
+    "name": "Chậu lavabo đặt bàn BO-2104",
+    "image": "src/assets/data/img/2104.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2105",
+    "name": "Chậu lavabo đặt bàn BO-2105",
+    "image": "src/assets/data/img/2105.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2106",
+    "name": "Chậu lavabo đặt bàn BO-2106",
+    "image": "src/assets/data/img/2106.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2107",
+    "name": "Chậu lavabo đặt bàn BO-2107",
+    "image": "src/assets/data/img/2107.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2108",
+    "name": "Chậu lavabo đặt bàn BO-2108",
+    "image": "src/assets/data/img/2108.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2109",
+    "name": "Chậu lavabo đặt bàn BO-2109",
+    "image": "src/assets/data/img/2109.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2110",
+    "name": "Chậu lavabo đặt bàn BO-2110",
+    "image": "src/assets/data/img/2110.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2111",
+    "name": "Chậu lavabo đặt bàn BO-2111",
+    "image": "src/assets/data/img/2111.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2112",
+    "name": "Chậu lavabo đặt bàn BO-2112",
+    "image": "src/assets/data/img/2112.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2113",
+    "name": "Chậu lavabo đặt bàn BO-2113",
+    "image": "src/assets/data/img/2113.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2114",
+    "name": "Chậu lavabo đặt bàn BO-2114",
+    "image": "src/assets/data/img/2114.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2115",
+    "name": "Chậu lavabo đặt bàn BO-2115",
+    "image": "src/assets/data/img/2115.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2116",
+    "name": "Chậu lavabo đặt bàn BO-2116",
+    "image": "src/assets/data/img/2116.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2117",
+    "name": "Chậu lavabo treo tường BO-2117",
+    "image": "src/assets/data/img/2117.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2118",
+    "name": "Chậu lavabo treo tường BO-2118",
+    "image": "src/assets/data/img/2118.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2119",
+    "name": "Chậu lavabo âm bàn BO-2119",
+    "image": "src/assets/data/img/2119.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2120",
+    "name": "Chậu lavabo đặt bàn BO-2120",
+    "image": "src/assets/data/img/2120.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2121",
+    "name": "Chậu lavabo đặt bàn BO-2121",
+    "image": "src/assets/data/img/2121.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2122",
+    "name": "Chậu lavabo đặt bàn BO-2122",
+    "image": "src/assets/data/img/2122.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2123",
+    "name": "Chậu lavabo đặt bàn BO-2123",
+    "image": "src/assets/data/img/2123.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-2124",
+    "name": "Chậu lavabo đặt bàn BO-2124",
+    "image": "src/assets/data/img/2124.png",
+    "price": "11.500.000",
+    "type": 2
+  },
+  {
+    "id": "BO-301",
+    "name": "Sen tắm cây nóng lạnh BO-301",
+    "image": "src/assets/data/img/301.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-302",
+    "name": "Sen tắm cây nóng lạnh BO-302",
+    "image": "src/assets/data/img/302.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-303",
+    "name": "Sen tắm cây nóng lạnh BO-303",
+    "image": "src/assets/data/img/303.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-304",
+    "name": "Sen tắm cây nóng lạnh BO-304",
+    "image": "src/assets/data/img/304.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-305",
+    "name": "Sen tắm cây nóng lạnh BO-305",
+    "image": "src/assets/data/img/305.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-306",
+    "name": "Sen tắm cây nóng lạnh BO-306",
+    "image": "src/assets/data/img/306.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-307",
+    "name": "Sen tắm cây nóng lạnh BO-307",
+    "image": "src/assets/data/img/307.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-308",
+    "name": "Sen tắm cây nóng lạnh BO-308",
+    "image": "src/assets/data/img/308.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-309",
+    "name": "Sen tắm cây nóng lạnh BO-309",
+    "image": "src/assets/data/img/309.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-310",
+    "name": "Sen tắm cây nhiệt độ BO-310",
+    "image": "src/assets/data/img/310.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-311",
+    "name": "Sen tắm cây nhiệt độ BO-311",
+    "image": "src/assets/data/img/311.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-312",
+    "name": "Sen tắm cây nhiệt độ BO-312",
+    "image": "src/assets/data/img/312.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-313",
+    "name": "Sen tắm cây nhiệt độ BO-313",
+    "image": "src/assets/data/img/313.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-314",
+    "name": "Sen tắm cây nhiệt độ BO-314",
+    "image": "src/assets/data/img/314.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-315",
+    "name": "Sen tắm cây nhiệt độ BO-315",
+    "image": "src/assets/data/img/315.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-316",
+    "name": "Sen tắm cây nhiệt độ BO-316",
+    "image": "src/assets/data/img/316.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-317",
+    "name": "Sen tắm cây nhiệt độ BO-317",
+    "image": "src/assets/data/img/317.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-318",
+    "name": "Sen tắm cây nhiệt độ BO-318",
+    "image": "src/assets/data/img/318.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-319",
+    "name": "Sen tắm cây nóng lạnh BO-319",
+    "image": "src/assets/data/img/319.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-320",
+    "name": "Sen tắm cây nóng lạnh BO-320",
+    "image": "src/assets/data/img/320.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-321",
+    "name": "Sen tắm cây nhiệt độ BO-321",
+    "image": "src/assets/data/img/321.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-322",
+    "name": "Sen tắm cây nhiệt độ BO-322",
+    "image": "src/assets/data/img/322.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-323",
+    "name": "Sen tắm nóng lạnh BO-323",
+    "image": "src/assets/data/img/323.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-324",
+    "name": "Sen tắm cây nhiệt độ BO-324",
+    "image": "src/assets/data/img/324.png",
+    "price": "11.500.000",
+    "type": 3
+  },
+  {
+    "id": "BO-201",
+    "name": "Vòi lavabo nóng lạnh hiển thị nhiệt độ BO-201",
+    "image": "src/assets/data/img/201.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-202",
+    "name": "Vòi lavabo nóng lạnh BO-202",
+    "image": "src/assets/data/img/202.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-203",
+    "name": "Vòi lavabo nóng lạnh BO-203",
+    "image": "src/assets/data/img/203.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-204",
+    "name": "Vòi lavabo nóng lạnh BO-204",
+    "image": "src/assets/data/img/204.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-205",
+    "name": "Vòi lavabo nóng lạnh BO-205",
+    "image": "src/assets/data/img/205.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-206",
+    "name": "Vòi lavabo nóng lạnh BO-206",
+    "image": "src/assets/data/img/206.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-207",
+    "name": "Vòi lavabo nóng lạnh BO-207",
+    "image": "src/assets/data/img/207.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-208",
+    "name": "Vòi lavabo nóng lạnh BO-208",
+    "image": "src/assets/data/img/208.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-209",
+    "name": "Vòi lavabo nóng lạnh BO-209",
+    "image": "src/assets/data/img/209.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-210",
+    "name": "Vòi lavabo nóng lạnh hiển thị nhiệt độ BO-210",
+    "image": "src/assets/data/img/210.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-211",
+    "name": "Vòi lavabo nóng lạnh BO-211",
+    "image": "src/assets/data/img/211.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-212",
+    "name": "Vòi lavabo nóng lạnh BO-212",
+    "image": "src/assets/data/img/212.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-213",
+    "name": "Vòi lavabo nóng lạnh BO-213",
+    "image": "src/assets/data/img/213.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-214",
+    "name": "Vòi lavabo nóng lạnh BO-214",
+    "image": "src/assets/data/img/214.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-215",
+    "name": "Vòi lavabo nóng lạnh BO-215",
+    "image": "src/assets/data/img/215.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-216",
+    "name": "Vòi lavabo nóng lạnh BO-216",
+    "image": "src/assets/data/img/216.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-217",
+    "name": "Vòi lavabo nóng lạnh BO-217",
+    "image": "src/assets/data/img/217.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-218",
+    "name": "Vòi lavabo nóng lạnh BO-218",
+    "image": "src/assets/data/img/218.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-219",
+    "name": "Vòi lavabo nóng lạnh BO-219",
+    "image": "src/assets/data/img/219.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-220",
+    "name": "Vòi lavabo nóng lạnh BO-220",
+    "image": "src/assets/data/img/220.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-221",
+    "name": "Vòi lavabo nóng lạnh BO-221",
+    "image": "src/assets/data/img/221.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-222",
+    "name": "Vòi lavabo nóng lạnh BO-222",
+    "image": "src/assets/data/img/222.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-223",
+    "name": "Vòi lavabo nóng lạnh BO-223",
+    "image": "src/assets/data/img/223.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-224",
+    "name": "Vòi lavabo nóng lạnh BO-224",
+    "image": "src/assets/data/img/224.png",
+    "price": "11.500.000",
+    "type": 4
+  },
+  {
+    "id": "BO-401",
+    "name": "Vòi rửa chén nóng lạnh BO-401",
+    "image": "src/assets/data/img/401.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-402",
+    "name": "Vòi rửa chén nóng lạnh BO-402",
+    "image": "src/assets/data/img/402.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-403",
+    "name": "Vòi rửa chén nóng lạnh BO-403",
+    "image": "src/assets/data/img/403.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-404",
+    "name": "Vòi rửa chén nóng lạnh BO-404",
+    "image": "src/assets/data/img/404.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-405",
+    "name": "Vòi rửa chén nóng lạnh BO-405",
+    "image": "src/assets/data/img/405.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-406",
+    "name": "Vòi rửa chén nóng lạnh BO-406",
+    "image": "src/assets/data/img/406.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-407",
+    "name": "Vòi rửa chén nóng lạnh BO-407",
+    "image": "src/assets/data/img/407.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-408",
+    "name": "Vòi rửa chén nóng lạnh BO-408",
+    "image": "src/assets/data/img/408.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-409",
+    "name": "Vòi rửa chén nóng lạnh BO-409",
+    "image": "src/assets/data/img/409.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-410",
+    "name": "Vòi rửa chén nóng lạnh BO-410",
+    "image": "src/assets/data/img/410.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-411",
+    "name": "Vòi rửa chén nóng lạnh BO-411",
+    "image": "src/assets/data/img/411.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-412",
+    "name": "Vòi rửa chén nóng lạnh BO-412",
+    "image": "src/assets/data/img/412.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-413",
+    "name": "Vòi rửa chén nóng lạnh BO-413",
+    "image": "src/assets/data/img/413.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-414",
+    "name": "Vòi rửa chén nóng lạnh BO-414",
+    "image": "src/assets/data/img/414.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-415",
+    "name": "Vòi rửa chén nóng lạnh BO-415",
+    "image": "src/assets/data/img/415.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-416",
+    "name": "Vòi rửa chén nóng lạnh BO-416",
+    "image": "src/assets/data/img/416.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-417",
+    "name": "Vòi rửa chén nóng lạnh BO-417",
+    "image": "src/assets/data/img/417.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-418",
+    "name": "Vòi rửa chén nóng lạnh BO-418",
+    "image": "src/assets/data/img/418.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-419",
+    "name": "Vòi rửa chén nóng lạnh BO-419",
+    "image": "src/assets/data/img/419.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-420",
+    "name": "Vòi rửa chén nóng lạnh BO-420",
+    "image": "src/assets/data/img/420.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-421",
+    "name": "Vòi rửa chén nóng lạnh BO-421",
+    "image": "src/assets/data/img/421.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-422",
+    "name": "Vòi rửa chén nóng lạnh BO-422",
+    "image": "src/assets/data/img/422.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-423",
+    "name": "Vòi rửa chén nóng lạnh BO-423",
+    "image": "src/assets/data/img/423.png",
+    "price": "11.500.000",
+    "type": 5
+  },
+  {
+    "id": "BO-424",
+    "name": "Vòi rửa chén nóng lạnh BO-424",
+    "image": "src/assets/data/img/424.png",
+    "price": "11.500.000",
+    "type": 5
+  }
+]
