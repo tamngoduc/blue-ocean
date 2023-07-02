@@ -12,11 +12,28 @@ const MainHeader = () => {
   const open = Boolean(anchorEl);
 
   const handleClick = (event: React.MouseEvent<HTMLElement>) => {
-    setAnchorEl(event.currentTarget);
+    if (anchorEl !== event.currentTarget) {
+      setAnchorEl(event.currentTarget);
+    }
   };
+
+  let currentlyHovering = false;
 
   const handleClose = () => {
     setAnchorEl(null);
+  };
+
+  const handleHover = () => {
+    currentlyHovering = true;
+  };
+
+  const handleCloseHover = () => {
+    currentlyHovering = false;
+    setTimeout(() => {
+      if (!currentlyHovering) {
+        handleClose();
+      }
+    }, 50);
   };
 
   return (
@@ -50,7 +67,11 @@ const MainHeader = () => {
           } else {
             return (
               <div key={item.title}>
-                <div onClick={handleClick} className="hover">
+                <div
+                  onClick={handleClick}
+                  onMouseOver={handleClick}
+                  className="hover"
+                >
                   <Typography variant="caption" sx={{ color: "#fff" }}>
                     {item.title}
                   </Typography>
@@ -59,6 +80,8 @@ const MainHeader = () => {
                   id="fade-menu"
                   MenuListProps={{
                     "aria-labelledby": "fade-button",
+                    onMouseEnter: handleHover,
+                    onMouseLeave: handleCloseHover,
                   }}
                   anchorEl={anchorEl}
                   open={open}
